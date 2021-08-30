@@ -1,0 +1,2 @@
+add_subdirectory(RenderCore)
+add_subdirectory(Main)
